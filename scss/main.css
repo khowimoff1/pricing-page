@@ -100,9 +100,6 @@ a {
   font-weight: 600;
   line-height: 150%;
 }
-.hero .hero_right {
-  width: 748px;
-}
 .hero .hero_right p {
   color: var(--grey-35, #59595a);
   font-size: 18px;
